@@ -1,0 +1,22 @@
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net8.0\API.FurnitureStore.Shared.deps.json
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net8.0\API.FurnitureStore.Shared.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net8.0\API.FurnitureStore.Shared.pdb
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.AssemblyInfoInputs.cache
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.AssemblyInfo.cs
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.csproj.CoreCompileInputs.cache
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\refint\API.FurnitureStore.Shared.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.pdb
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\ref\API.FurnitureStore.Shared.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.AssemblyInfoInputs.cache
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.AssemblyInfo.cs
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.csproj.CoreCompileInputs.cache
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\refint\API.FurnitureStore.Shared.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\API.FurnitureStore.Shared.pdb
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net8.0\API.FurnitureStore.Shared.deps.json
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net8.0\API.FurnitureStore.Shared.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\bin\Debug\net8.0\API.FurnitureStore.Shared.pdb
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Shared\obj\Debug\net8.0\ref\API.FurnitureStore.Shared.dll

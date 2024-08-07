@@ -1,0 +1,263 @@
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\appsettings.json
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.exe
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.deps.json
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.runtimeconfig.json
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.pdb
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.Data.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.Shared.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.Data.pdb
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.Shared.pdb
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.csproj.AssemblyReference.cache
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.AssemblyInfoInputs.cache
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.AssemblyInfo.cs
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.csproj.CoreCompileInputs.cache
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets\msbuild.API.FurnitureStore.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.FurnitureStore.API.props
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.FurnitureStore.API.props
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.FurnitureStore.API.props
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\scopedcss\bundle\API.FurnitureStore.API.styles.css
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.Furn.25A461BC.Up2Date
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\refint\API.FurnitureStore.API.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.pdb
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.genruntimeconfig.cache
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\ref\API.FurnitureStore.API.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Humanizer.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyectos\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.csproj.AssemblyReference.cache
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.GeneratedMSBuildEditorConfig.editorconfig
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.AssemblyInfoInputs.cache
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.AssemblyInfo.cs
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.csproj.CoreCompileInputs.cache
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.MvcApplicationPartsAssemblyInfo.cs
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.MvcApplicationPartsAssemblyInfo.cache
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\refint\API.FurnitureStore.API.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.pdb
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\appsettings.Development.json
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\appsettings.json
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.exe
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.deps.json
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.runtimeconfig.json
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.API.pdb
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Humanizer.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.CodeDom.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.Data.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.Shared.dll
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.Data.pdb
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net8.0\API.FurnitureStore.Shared.pdb
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets.build.json
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets.development.json
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets\msbuild.API.FurnitureStore.API.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.FurnitureStore.API.props
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.FurnitureStore.API.props
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.FurnitureStore.API.props
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\staticwebassets.pack.json
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\scopedcss\bundle\API.FurnitureStore.API.styles.css
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.Furn.25A461BC.Up2Date
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\API.FurnitureStore.API.genruntimeconfig.cache
+I:\Proyectos progrmación\API Mastery -.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net8.0\ref\API.FurnitureStore.API.dll

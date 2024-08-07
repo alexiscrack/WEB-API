@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\Proyectos progrmación\\API Mastery -.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {}
+  },
+  "projects": {
+    "I:\\Proyectos progrmación\\API Mastery -.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\Proyectos progrmación\\API Mastery -.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+        "projectName": "API.FurnitureStore.Shared",
+        "projectPath": "I:\\Proyectos progrmación\\API Mastery -.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+        "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
+        "outputPath": "I:\\Proyectos progrmación\\API Mastery -.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
